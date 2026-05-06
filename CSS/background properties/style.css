@@ -1,0 +1,55 @@
+.container{
+    height: 1000px;
+    background-image: url("https://in.images.search.yahoo.com/images/view;_ylt=AwrPoZvf8PJpai83ddG9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzA0NzQ4OGM2OTdkMzJjNTliMGYxNjIzNDNmMDI1YmU2BGdwb3MDMTIEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dbackground%2Bimages%26type%3DE210IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D12&w=1920&h=1080&imgurl=www.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F06%2FHD-images-of-nature-download.jpg&rurl=https%3A%2F%2Fwww.pixelstalk.net%2Ffree-download-hd-nature-wallpapers%2F&size=328KB&p=background+images&oid=047488c697d32c59b0f162343f025be6&fr2=piv-web&fr=mcafee&tt=Nature+HD+Wallpaper+for+Your+Desktop+Background+-+PixelsTalk&b=0&ni=21&no=12&ts=&tab=organic&sigr=qGfXf6B66aWS&sigb=9HZYf2eXImmf&sigi=xnk9W8vtPGUy&sigt=BUb_DJG_cInh&.crumb=nG6tFExmGHl&fr=mcafee&fr2=piv-web&type=E210IN826G0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: red;
+}
+header{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 15px 40px;
+    justify-content: space-between;
+}
+nav>a{
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+}
+body{
+    margin: 0px;
+    background-image: url("https://picsum.photos/1200/800");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 1200px;
+}
+section{
+     width:80%;
+    margin: 60px;
+}
+
+.banner{
+    height:300px;
+    background-image: url("https://picsum.photos/1200/800");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(65, 63, 63);
+    width: 80%;
+    margin: auto;
+   
+
+}
+form{
+    width: 40%;
+    margin: auto;
+    height:100px;
+   
+}

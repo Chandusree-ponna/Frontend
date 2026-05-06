@@ -1,0 +1,14 @@
+.bulb{
+    background-color:yellow;
+    font-size: 120px;
+    animation: blink 2s infinite;
+}
+
+@keyframes blink{
+    0%, 50%{
+        color: white;
+    }
+    60%, 100%{
+        color: black;
+    }
+}

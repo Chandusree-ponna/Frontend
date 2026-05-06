@@ -1,0 +1,183 @@
+body{
+    background-color: black;
+}
+header{
+   
+    height: 100px;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+h{
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+button{
+    background-color: yellow;
+    border-radius: 10px;
+    padding: 10px;
+}
+.heroo{
+
+    margin:auto;   
+}
+.left{
+    color:white;
+    width: 50%;
+    height: 40px;
+    left: auto;
+    margin-left: opx;
+}
+.right{
+    display: flex;
+    justify-content: end;
+    margin-left: 10px;
+}
+button{
+    background-color: yellow;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color: yellow;
+    font-size: 40px;
+   
+}
+p{
+    color: white;
+    font-size: 30px;
+}
+button{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.third{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    color: yellow;
+    font-size: 40px;
+   
+}
+p{
+    color: white;
+    font-size: 30px;
+}
+button{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+   
+}
+.fourth{
+   background-color: white;
+   color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+}
+h4{
+    font-size: 30px;
+}
+button{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.fifth{
+    font-size: 20px;
+    color: white;
+}
+
+h6{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.box{
+    background-color: white;
+    color: black;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h7{
+    font-size: 20px;
+    color: black;
+    margin: auto;
+    font-size: bold;
+}
+p{
+   font-size: 17px;
+    color: black;
+    margin: auto;  
+
+}
+.square{
+    background-color: white;
+    color: black;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h8{
+    font-size: 20px;
+    color: black;
+    margin: auto;
+    font-size: bold;
+}
+p{
+   font-size: 17px;
+    color: black;
+    margin: auto;  
+}
+.hero3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h9{
+    color: white;
+     font-size: 30px;
+}
+p{
+    color: white;
+     font-size: 20px; 
+
+}
+image.img{
+    height: 30px;
+     width: 30px;
+     
+}
+

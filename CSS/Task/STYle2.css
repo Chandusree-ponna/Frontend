@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+/* TOP CENTER */
+.top {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+
+/* ROWS */
+.row-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 30px;
+}
+
+/* CARD COMMON */
+.card {
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+/* HORIZONTAL CARD */
+.horizontal {
+  width: 500px;
+}
+
+/* VERTICAL CARDS */
+.vertical {
+  width: 250px;
+  height: 350px;
+}
+
+/* HEADER */
+.header {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* ROW INSIDE */
+.row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+/* IMAGE */
+.card img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+ 
+}
+
+/* ROUND IMAGE */
+.photo {
+  border-radius: 50%;
+  margin: 10px auto;
+  
+}
+
+/* LOGO */
+.logo {
+  width: 30px;
+  height: 30px;
+  background: blue;
+  border-radius: 50%;
+  margin: 10px auto;
+}
+
+/* BARCODE */
+.barcode {
+  height: 30px;
+  margin-top: 10px;
+  background: repeating-linear-gradient(
+    90deg,
+    black 0px,
+    black 2px,
+    white 2px,
+    white 4px
+  );
+}

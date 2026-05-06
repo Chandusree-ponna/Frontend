@@ -1,0 +1,14 @@
+.image  {
+    width: 200px;
+    height: 250px;
+}
+.info {
+    height: 300px;
+    width: 300px;
+    display: none;         
+    background: black;
+    color: white;
+}
+.image:hover .info {
+    display: block;
+}

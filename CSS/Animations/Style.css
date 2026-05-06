@@ -1,0 +1,69 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color:aqua;
+    animation-name:box;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+    animation-direction: forwards;
+}
+  /*@keyframes box{
+   from{
+    transform: translateX(0px);
+   }
+   to{
+    transform: translateX(300px);
+   }
+}
+*/
+ /*@keyframes box{
+    0%{
+        transform: translate(0px, 0px);
+    }
+    25%{
+        transform: translate(300px, 0px);
+    }
+    50%{
+        transform: translate(300px, 300px);
+    }
+    75%{
+        transform: translate(0px, 300px);
+    }
+    100%{
+        transform: translate(0px, 0px);
+    }
+}
+
+*/
+
+
+/*.one{
+    height: 100vh;
+}
+.bulb{
+    width: 100px;
+    height: 100px;
+    background-color:#ffeb3b;
+    border-radius: 50%;
+   
+}
+*/
+.ball{
+    width: 100px;
+    height: 100px;
+    background-color:aqua;
+    animation-name:ball;
+    border-radius: 90px;
+    animation-duration: 2s;
+    animation-direction: forwards;
+    rotate: alternate;
+    animation-iteration-count: infinite;
+}
+@keyframes ball{
+   from{
+    transform: translateY(0px);
+   }
+   to{
+    transform: translateY(300px);
+   }
+}

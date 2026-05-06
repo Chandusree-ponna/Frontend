@@ -1,0 +1,19 @@
+
+.body{
+   justify-content: center;
+}
+.heart{
+    animation: heart 1s infinite;
+    color: red;
+    font-size: 100px;
+    font-weight: 30px;
+   
+   
+}
+@keyframes heart{
+    from{
+        transform: scale(1);
+    }        to{
+        transform: scale(1.5);
+    }
+}

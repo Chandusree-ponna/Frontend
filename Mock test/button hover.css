@@ -1,0 +1,12 @@
+button{
+    padding: 10px;
+    
+
+}
+.body{
+    margin: 30px;
+}
+button:hover{
+    background-color: brown;
+    color: white;
+}
